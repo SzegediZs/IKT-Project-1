@@ -8,7 +8,10 @@ p{
 }
 
 ol li{
-  margin-left: 15px;
+  margin-left: 15px
+  
+
+ ;
 }
 
 .hasab{
@@ -47,6 +50,7 @@ img{
 
 .fk{
   font-weight: normal;
+  font-style: italic;
 }
 
 #teljes{
