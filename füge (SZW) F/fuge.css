@@ -1,0 +1,38 @@
+body{
+background-color:#F0F0F0;
+}
+
+a:link{
+    color:#747474;
+}
+
+table{
+    width: 1000px;
+    margin: 0 auto;
+    border: none;
+    padding: 2px;
+
+    
+}
+
+.bal{
+    width: 150px;
+}
+.jobb{
+    width: 850px;
+}
+#vilagoszold{
+    background-color:#9BCE11 ;
+}
+h1{
+    text-align: center;
+}
+.jobbraigazitas{
+    float: right;
+}
+h2{
+color: lightgreen;
+}
+#kepfel{
+    vertical-align: top;
+}
