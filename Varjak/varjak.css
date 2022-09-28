@@ -1,0 +1,44 @@
+body{
+background-color: #99ACB2;
+color: #192C32 ;
+
+
+}
+
+a{
+    color: #FF6F00;
+}
+
+table{
+    width: 1006px;
+    border: none;
+    margin: 0 auto;
+    padding: 3px;
+    
+
+}
+#harmadiksor {
+    background-color: white;
+}
+h1{
+
+}
+h2{
+
+}
+#fejlec{
+    border: 1px solid;
+
+}
+.dolt{
+    font-style: italic;
+}
+#szovegkozepre{
+    text-align: center;
+
+}
+.kepkozepre{
+  margin: 0 auto;  
+  border: none;
+  display: block;
+}
