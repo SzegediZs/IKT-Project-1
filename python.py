@@ -47,3 +47,20 @@ feladat3()"""
         print("Nem oszható 3-mal és 5-el sem.")
 
 feladat4()"""
+
+def feladat5():
+
+    bekertSzam=[]
+    for i in range (3): 
+        bekertSzam=int(input(f"Adj meg egy számot:"))
+
+    if (bekertSzam[0]) + (bekertSzam[1]) == (bekertSzam[2]):
+        print("Az első és a második szám összege a harmadik szám.")
+
+feladat5()
+
+
+
+
+
+
