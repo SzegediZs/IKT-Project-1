@@ -29,7 +29,10 @@ h1,h2,h3{
 }
 
 .info{
-
+background-color: rgb(255,242,207) ;
+font-weight: 2px;
+border: rgb(0,0,0) solid;
+border-radius: 12px;  
 }
 
 .lablec a{
@@ -37,6 +40,8 @@ h1,h2,h3{
 }
 
 .lablec a:hover{
+	font-style: italic;
+	color: red;
 	
 }
 
@@ -47,7 +52,13 @@ h1,h2,h3{
 
 .mancs{
 	margin-top:10px;
+	list-style-image: url(../img/mancs.png);
+
+	
 }
 .felkover{
 	font-weight: bold;
+}
+body{
+	background-image:url(../img/hatter.jpg);
 }
