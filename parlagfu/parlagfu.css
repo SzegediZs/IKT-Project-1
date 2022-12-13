@@ -1,0 +1,30 @@
+body
+{
+background-color: #9CEE59;
+color: black;
+}
+
+
+a:link{
+    color: (#999999;
+}
+
+table, th, td {
+    width: 980px;
+    margin-left: auto
+    ;
+   border: none;
+}
+.table2{
+    width: 940px;
+    margin: 0px;
+    
+}
+.sormasodik{
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin-left: auto;
+    border: none;
+
+}
